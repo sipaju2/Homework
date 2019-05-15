@@ -1,0 +1,119 @@
+
+
+ #whole{
+    background: #f2f2f2;
+    width:"100%";
+    height:"100%";
+  }
+  
+  
+  #ctr{
+    margin: auto;
+  }
+  
+  
+  .ctr{
+    margin: auto;
+  }
+  
+  
+  #left {
+    float: left;
+    width: 60%;
+    background: white;
+    padding: 20px;
+  
+  }
+  
+  #right {
+    float: right;
+    width: 30%;
+    background: white;
+    padding: 20px;
+  }
+  
+  
+  #co {
+    width: 50%;
+    background: white;
+    padding: 20px;
+  
+  }
+  
+  .label-primary{
+    background-color: teal;
+    color: white;
+    font-style: bold;
+  }
+  
+  .Visualizations {
+      color: teal;
+      font-style: bold;
+      font-size: 25px;
+      margin: 30px 0px 30px 0px;
+  
+  }
+  .co_img {
+    color: teal;
+    font-style: bold;
+    font-size: 20px;
+    margin: 30px 0px 30px 0px;
+    text-align: center;
+    margin: auto;
+  
+  }
+  
+  .Summary {
+    color:teal;
+    font-style: bold;
+    font-size: 30px;
+    margin: 30px 0px 30px 0px;
+  
+  }
+  
+  .imgl{
+      float: left;
+      margin: 0px 20px 20px 0px;
+  
+  }
+  
+  
+  #imgs{
+    border-color: teal;
+    border-style: solid;
+  }
+  
+  
+  #hello{
+    background: darkgrey;
+    color:white;
+    text-align: center;
+    font-style: bold;
+  
+  }
+  .compcentercont{
+    background: white;
+    width: 800px;
+    margin: auto;
+    padding-bottom: 5%;
+  
+  }
+  .imgall{
+  
+    text-align: center;
+  }
+  
+  .font-a{
+    color: white;
+    font-size: 200%;
+    font-family: Arial;
+    margin-left: 50px;
+    background: teal;
+  
+  }
+  
+  
+  .navbar-nav > li > a:hover,
+  .navbar-nav  > li > a:focus {
+    background: lightgrey !important;
+  }
